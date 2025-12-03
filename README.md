@@ -53,7 +53,7 @@ I'm a **Software Development Engineer** passionate about building scalable distr
 
 ## 📊 GitHub Stats
 
-![Arihant's GitHub stats]<source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=arihant-dev&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF">
+![Arihant's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=arihant-dev&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF)
 
 ## 🎯 Interests
 
