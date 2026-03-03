@@ -1,4 +1,4 @@
-# Hi there, I'm Arihant Jain 👋
+# Hi there, I'm Arihant Jain - [https://arihant-jain.me](https://arihant-jain.me)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariihanjain)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arihant-dev)
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Development Engineer** passionate about building scalable distributed systems and elegant solutions. Currently pursuing my **MSc in Computer Science at EPITA, Paris**, while bringing 3+ years of professional experience in backend development, microservices architecture, and iOS development.
+I'm a **Software Engineer** passionate about building scalable distributed systems and elegant solutions. Currently pursuing my **MSc in Computer Science at EPITA, Paris**, while bringing 3+ years of professional experience in backend development, microservices architecture, and iOS development.
 
 🌍 Based in **Cachan, France**  
 🎓 Previously studied at **Jaypee Institute of Information Technology, India**  
@@ -68,8 +68,9 @@ I'm a **Software Development Engineer** passionate about building scalable distr
 Feel free to reach out for collaborations, interesting projects, or just a chat about technology!
 
 - 📧 Email: jainarj411@gmail.com
-- 💼 LinkedIn: [ariihanjain](https://linkedin.com/in/ariihanjain)
+- 💼 LinkedIn: [https://linkedin.com/in/ariihantijain](https://linkedin.com/in/ariihantijain)
 - 🌐 Location: Paris, France
+- 📺 Website: [https://arihant-jain.me](https://arihant-jain.me)
 
 ---
 
